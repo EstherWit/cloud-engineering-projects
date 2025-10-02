@@ -10,6 +10,7 @@ Featured Projects
    
 -Description: In this project, I demonstrated how to visualize data using Amazon QuickSight. 
  The goal was to learn how to create dashboards, explore datasets, and share insights in the cloud.
+ 
 -Technologies: Amazon QuickSight(Visualization Types, Filters & Aggregations, Interactive Dashboards), Amazon S3(CSV/JSON files)
 -Repo: [Link to project](https://github.com/EstherWit/Visualize-data-with-QuickSight.git)
 
